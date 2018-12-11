@@ -743,42 +743,42 @@ h4:hover {
   height: 100px; }
 
 .featured-image-books {
-  background: url("https://i.imgur.com/NIjZwMc.jpg") top center no-repeat;
+  background: url(../assets/img/books.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-relationships {
-  background: url("https://i.imgur.com/SaQWOfT.jpg") top center no-repeat;
+  background: url(../assets/img/relation.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-sports {
-  background: url("https://i.imgur.com/SWyj4km.jpg") top center no-repeat;
+  background: url(../assets/img/sports.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-life {
-  background: url("https://i.imgur.com/plBudR9.jpg") top center no-repeat;
+  background: url(../assets/img/life.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-movies {
-  background: url("https://i.imgur.com/S2Y76I0.jpg") top center no-repeat;
+  background: url(../assets/img/movie.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-startups {
-  background: url("https://i.imgur.com/RjzESyg.jpg") top center no-repeat;
+  background: url(../assets/img/startup.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-african {
-  background: url("https://i.imgur.com/d42jTmL.jpg") top center no-repeat;
+  background: url(../assets/img/african.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
 .featured-image-christianity {
-  background: url("https://payload195.cargocollective.com/1/13/422785/6216380/LauraBarrettBhagavadGitaillo_2048.jpg") top center no-repeat;
+  background: url(../assets/img/geeta.jpg)top center no-repeat;
   background-size: 110%;
   transition: background 800ms ease-in-out; }
 
@@ -808,7 +808,7 @@ h4:hover {
   text-align: center; }
 
 .background-style-sports {
-  background: url("https://i.imgur.com/SWyj4km.jpg") top center no-repeat;
+  background: url(../assets/img/sports.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -822,7 +822,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-relationships {
-  background: url("https://i.imgur.com/SaQWOfT.jpg") top center no-repeat;
+  background: url(../assets/img/relation.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -836,7 +836,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-movies {
-  background: url("https://i.imgur.com/S2Y76I0.jpg") top center no-repeat;
+  background: url(../assets/img/movie.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -850,7 +850,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-african {
-  background: url("https://i.imgur.com/d42jTmL.jpg") top center no-repeat;
+  background: url(../assets/img/african.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -864,7 +864,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-startups {
-  background: url("https://i.imgur.com/RjzESyg.jpg") top center no-repeat;
+  background: url(../assets/img/startup.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -878,7 +878,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-christianity {
-  background: url("http://img.elephantjournal.com/wp-content/uploads/2014/08/Jorge-Camara-1.jpg") top center no-repeat;
+  background: url(../assets/img/geeta.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -892,7 +892,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-books {
-  background: url("https://i.imgur.com/NIjZwMc.jpg") top center no-repeat;
+  background: url(../assets/img/books.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
@@ -906,7 +906,7 @@ h4:hover {
   overflow: hidden; }
 
 .background-style-life {
-  background: url("https://i.imgur.com/plBudR9.jpg") top center no-repeat;
+  background: url(../assets/img/life.jpg)top center no-repeat;
   background-size: cover;
   width: 100%;
   -webkit-transition-property: background;
