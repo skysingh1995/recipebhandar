@@ -293,22 +293,18 @@ this.swUpdate.checkForUpdate().then(() => {
   ];
 
   africanQuotes: any  = [
-
     {
-      quote: 'The fool speaks, the wise man listens.',
-      author: 'Ethiopian proverb'
+      quote: 'If you want to go fast, go alone. If you want to go far, go together.',
+      author: 'African proverb'
     },
-
-    {
-      quote: 'Marriage is like a groundnut; you have to crack it to see what is inside.',
-      author: 'Ghanaian proverb'
-    },
-
     {
       quote: 'Patience can cook a stone.',
       author: 'African proverb'
     },
-
+    {
+      quote: 'The fool speaks, the wise man listens.',
+      author: 'Ethiopian proverb'
+    },
     {
       quote: 'However long the night, the dawn will break.',
       author: 'African proverb'
@@ -323,12 +319,6 @@ this.swUpdate.checkForUpdate().then(() => {
       quote: 'Water is colourless and tasteless but you can live on it longer than eating food.',
       author: 'African proverb'
     },
-
-    {
-      quote: 'If you want to go fast, go alone. If you want to go far, go together.',
-      author: 'African proverb'
-    },
-
     {
       quote: 'A man who makes trouble for others is also making trouble for himself.',
       author: 'Chinua Achebe'
