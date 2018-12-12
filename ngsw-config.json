@@ -9,7 +9,13 @@
           "/quote.png",
           "/index.html",
           "/*.css",
-          "/*.js"
+          "/*.js",
+          "/*.jpg",
+          "/*.json"
+        ],
+        "urls": [
+          "https://fonts.googleapis.com/**",
+          "https://maxcdn.bootstrapcdn.com/**"
         ]
       }
     }, {

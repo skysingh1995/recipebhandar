@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
   constructor(private swUpdate: SwUpdate, private swPush: SwPush, private snackbar: MatSnackBar) {
     this.swUpdate.available.subscribe(evt => {
 this.swUpdate.checkForUpdate().then(() => {
-// background: url(../assets/icons/quote-72.png)top center no-repeat;
+
         const snack = this.snackbar.open('Update Available', 'Reload', {
           duration: 200000,
           panelClass: ['blue-snackbar']
