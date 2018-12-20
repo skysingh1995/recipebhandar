@@ -6,8 +6,9 @@
       "installMode": "prefetch",
       "resources": {
         "files": [
-          "/quote.png",
+          "/recipe-book.png",
           "/index.html",
+          "/offline.html",
           "/*.css",
           "/*.js",
           "/*.jpg",
