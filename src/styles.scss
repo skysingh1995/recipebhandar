@@ -155,7 +155,7 @@ nav {
 
 }
 
-
+/* create keyframe for fadin fadout fullimage halfimage */
 
 @keyframes fadein {
   from {
@@ -195,7 +195,7 @@ nav {
 }
 
 
-// Add Recipe
+// Add Recipe css
 
 #addItem {
   display: flex;
@@ -251,14 +251,7 @@ nav {
   border-color: orange;
 }
 
-// Recipe Page
 
-#RecipePage {
-  padding: 1em;
-  img {
-    max-width: 100%;
-  }
-}
 
 // Home
 
@@ -268,7 +261,7 @@ nav {
 }
 
 @media all and (min-width: 900px) {
-  #addItem, #Home, #RecipePage {
+  #addItem, #Home {
     max-width: 900px;
     margin: 0 auto;
   }
