@@ -7,7 +7,7 @@ import { environment } from '../environments/environment';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LayoutModule } from '@angular/cdk/layout';
 import { AppRoutingModule } from './app-routing.module';
-
+import { HttpClientModule } from '@angular/common/http';
 import {
   MatToolbarModule,
   MatButtonModule,
@@ -30,6 +30,7 @@ import {AddrecipeModule} from './addrecipe/addrecipe.module';
 ],
   imports: [
     BrowserModule,
+    HttpClientModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
     BrowserAnimationsModule,
     LayoutModule,
